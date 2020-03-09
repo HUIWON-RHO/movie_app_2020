@@ -1,6 +1,6 @@
 # 📽 Movie App 2020 / ReactJS
 
-React JS Fundamentals Course!
+React JS Fundamentals
 
  👉[Check it here!](https://huiwon-rho.github.io/movie_app_2020/)
  
