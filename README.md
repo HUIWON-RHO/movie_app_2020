@@ -1,4 +1,4 @@
-# 📽 Movie App 2020 HUIWON RHO  ReactJS
+# 📽 Movie App 2020 / ReactJS
 
 React JS Fundamentals Course!
 
